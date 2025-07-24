@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>homebannerapi</name>
+    <displayName>Home Banner API</displayName>
+    <version>2.0.0</version>
+    <author>i-creativi</author>
+    <tab>front_office_features</tab>
+    <description>Secure API for homepage banner with mandatory Bearer token authentication and centralized endpoint.</description>
+    <is_configurable>1</is_configurable>
+</module>
